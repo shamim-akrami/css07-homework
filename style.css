@@ -205,7 +205,8 @@ span{
     transform-origin: right;
 }
 .rotateright:hover{
-    transform: rotateY(2deg);   
+    transform: rotateY(2deg) scale3d(0.8,1,0);   
+   
 }
 
 .origin1{ 
